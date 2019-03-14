@@ -1,0 +1,1 @@
+apple, person, hello, world, earth, catastrophe, python, programming, code, hangman
